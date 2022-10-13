@@ -8,10 +8,10 @@
 - I learned which HTML tags are more useful/appropriate than other more generic tags and how they can affect your website.
 
 
-##Screenshot
+## Screenshot
 
-![Horiseon](assets/images/Horiseon webpage screenshot.png)
+![Horiseon](assets/images/Horiseon%20webpage%20screenshot.png)
 
-##Deployed Application
+## Deployed Application
 
-You can view my deployed application [here](https://amandagl1.github.io/Challenge-1-Horiseon/)
+You can view my deployed application [here](https://amandagl1.github.io/Challenge-1-Horiseon/)!
