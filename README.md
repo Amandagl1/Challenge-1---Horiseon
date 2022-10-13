@@ -10,7 +10,7 @@
 
 ##Screenshot
 
-![Screenshot](/Users/amanda/Code/Challenge-1-Horiseon/assets/images/Horiseon webpage screenshot.png)
+![alt](assets/images/Horiseon webpage screenshot.png)
 
 ##Link to Deployed Application
 
