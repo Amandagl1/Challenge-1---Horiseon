@@ -1,4 +1,4 @@
-# README (Horiseon)
+# README
 
 ## Description
 
