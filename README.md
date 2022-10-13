@@ -1,4 +1,4 @@
-# <Challenge-1-Horiseon>
+# README (Horiseon)
 
 ## Description
 
@@ -10,8 +10,8 @@
 
 ##Screenshot
 
-![alt](assets/images/Horiseon webpage screenshot.png)
+![Horiseon](assets/images/Horiseon webpage screenshot.png)
 
-##Link to Deployed Application
+##Deployed Application
 
-https://amandagl1.github.io/Challenge-1-Horiseon/
+You can view my deployed application [here](https://amandagl1.github.io/Challenge-1-Horiseon/)
